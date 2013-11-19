@@ -8,3 +8,6 @@ The easiest way to install is simply to [click this alfred:// link](http://is.gd
 Best,
 
 [Travis](http://twitter.com/vocino)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vocino/alfred-ir_black/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
